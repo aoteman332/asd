@@ -12,5 +12,9 @@ public class Git1Application {
         );
         System.out.println("asd");
     }
+    public void test(){
+        int i = 0;
+        i++;
+    }
 
 }
